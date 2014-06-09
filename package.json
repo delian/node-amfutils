@@ -1,0 +1,27 @@
+{
+  "name": "node-amfutils",
+  "version": "0.0.1",
+  "description": "Node.JS module that provides an API for encoding and decoding of AMF0 and AMF3 protocols",
+  "main": "amfUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delian/node-amfutils.git"
+  },
+  "keywords": [
+    "node",
+    "amf",
+    "adobe",
+    "rtmp",
+    "amd0",
+    "amf3"
+  ],
+  "author": "Delian Delchev <delian.delchev@gmail.com> (http://delian.blogspot.com/)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/delian/node-amfutils/issues"
+  },
+  "homepage": "https://github.com/delian/node-amfutils"
+}
